@@ -1,2 +1,0 @@
-# SQL-WEBSHOP
-SQL Exercise
